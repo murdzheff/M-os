@@ -24,6 +24,7 @@ modules:
     install:
       - fastfetch
       - freerdp
+      - neovim
       #- micro
       #- forticlient
       #- foliate
